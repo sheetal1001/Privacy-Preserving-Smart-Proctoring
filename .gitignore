@@ -4,3 +4,5 @@ venv/
 # Python cache
 __pycache__/
 
+# Session logs
+session_logs.csv
