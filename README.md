@@ -50,7 +50,7 @@ This repository serves as a local prototype to demonstrate the Computer Vision a
 
 ![alt text](image.png)
 
-![alt text](<prohibited_object..png>)
+![alt text](<prohibited_object.png>)
 
 ![alt text](<looking_down.png>)
 
