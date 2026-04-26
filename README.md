@@ -45,3 +45,7 @@ This repository serves as a local prototype to demonstrate the Computer Vision a
 
 (1) Webcam Routing: Both the "Student View" and "Proctor Dashboard" currently route to the local `localhost` webcam. In a production deployment, the WebRTC stream would be transmitted over a network, allowing the proctor to securely monitor a remote client's stream.
 (2) Visible Telemetry: AI status texts are currently rendered onto the video frame in both views to visually demonstrate the mathematical tracking (Pitch Ratio, Yaw, Gaze Ratio) for reviewers. In a deployed application, these `cv2.putText` overlays would be stripped from the client-side UI to prevent the examinee from attempting to bypass the system thresholds.
+
+## 7. Sample Image
+
+![alt text](image.png)
